@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,10 +19,10 @@ Here are some ideas to get you started:
 
 ### &nbsp;About Me 
 
-- 🎓 =>  &nbsp; Studying Computer Science at Modern Academy For Science And Technology.
-
+ 🎓 $collage = &nbsp; " Studying Computer Science at Modern Academy For Science And Technology. ";
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px>
 ## &nbsp;Preferred Programming and Scripting Langauges <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
-- &nbsp;
+ &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -46,13 +45,13 @@ Here are some ideas to get you started:
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
 ## Preferred Tools.
-<g-emoji class="g-emoji" alias="man_technologist" fallback src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
-- ⚙️ &nbsp;
+
+ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   <!-- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
   
-- 🔧 &nbsp;
+ &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   <!-- ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm&logoColor=007ACC) -->
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -99,6 +98,15 @@ Here are some ideas to get you started:
   </a> 
 </details>
 
+##  🌱 I’m currently learning ... 
+<g-emoji class="g-emoji" alias="man_technologist" fallback src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FF2D20?style=flat&logo=Docker&logoColor=blue)
+
+
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -111,21 +119,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
-<details align="center">
-  <br>☰ Click for QR Code</summary>
-
-<br>
-<table align="center">
-  <tr>
-    <th><b><a href="linkedin.com/in/ahmed-maalawi-642aa022a" target="_blank" rel="noreferrer">LinkedIn</a></b></th>
-  </tr>
-  <tr>
-    <td>
-      <img src= alt="LinkedIn QR Code" width="200">
-    </td>
-  </tr>
-</table>
-</details>
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
