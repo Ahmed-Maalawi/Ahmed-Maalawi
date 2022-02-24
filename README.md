@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### &nbsp;About Me ... 
 
- $collage [🎓]= &nbsp; " Studying Computer Science at Modern Academy For Science And Technology. ";
+ 🎓 - Studying Computer Science at Modern Academy For Science And Technology.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> &nbsp;Preferred Programming and Scripting Langauges <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
  &nbsp;
