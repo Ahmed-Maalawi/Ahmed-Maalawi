@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50"> -->
 
-![This is an image](./banner)
+![This is an image](./img/banner)
 
 <br><br>
 
@@ -72,6 +72,8 @@ Here are some ideas to get you started:
   <a>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
+  
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
   <span style="display:inline-block; margin: 0px 5px"></span>
 </div>
