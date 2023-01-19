@@ -208,7 +208,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700"
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700"
             alt="Ahmed's Github commit streak">
     </a>
 </p>
@@ -229,7 +229,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Ahmed-Maalawi">
-    <img width="60%" align="centre right" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700&show_icons=true">
+    <img width="90%" align="centre right" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700&show_icons=true">
   </a>
 
 
@@ -241,7 +241,7 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://github.com/Ahmed-Maalawi">
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maalawi&theme=nord_bright&langs_count=16"/>
+    <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maalawi&theme=nord_bright&langs_count=16"/>
   </a>
   </p>
 
