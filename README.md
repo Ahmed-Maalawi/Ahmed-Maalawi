@@ -57,23 +57,26 @@ Here are some ideas to get you started:
 
 <div style="display: flex">
 
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
+  <a style="margin: 3px">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </a>
   
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
   
   <span style="display:inline-block; margin: 0px 5px"></span>
 </div>
@@ -82,19 +85,19 @@ Here are some ideas to get you started:
 
 <div style="display: flex">
 
- <a>
+ <a style="margin: 3px">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
 
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   </a>
 
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
   </a>
 
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white"/>
   </a>
  </div>
@@ -112,15 +115,15 @@ Here are some ideas to get you started:
 
 <div style="display: flex; margin: 20px 0px">
 
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
   </a>
   
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
   </a>
   
-   <a>
+   <a style="margin: 3px">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>
 
@@ -133,12 +136,12 @@ Here are some ideas to get you started:
 <div style="display: flex">
 
 
-<a>
+<a style="margin: 3px">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </a>
   
   
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>
 
@@ -151,20 +154,24 @@ Here are some ideas to get you started:
 <div style="display: flex">
 
 
-<a>
+<a style="margin: 3px">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
   
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
   </a>
   
-  <a>
+  <a style="margin: 3px">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  </a>
+
+  <a style="margin: 3px">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   </a>
   
 </div>
@@ -173,9 +180,19 @@ Here are some ideas to get you started:
 
 # learning now
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<div style="display: flex">
+  <a style="margin: 3px;">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
 
+   <a style="margin: 3px;">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  </a>
+</div>
 
+<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
+
+<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
 # My Viewes ..
 
 <div style="display: flex">
@@ -250,12 +267,14 @@ Here are some ideas to get you started:
 
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
-   <a href="https://github.com/Ahmed-Maalawi">
-    <img width="400" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Maalawi&theme=nord_bright">
-  </a>
-   <a href="https://github.com/Ahmed-Maalawi">
-   <img width="400" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Maalawi&theme=nord_bright" />
-  </a> 
+   <div style="display: flex; justify-content: center;">
+    <a style="margin: 3px" href="https://github.com/Ahmed-Maalawi">
+      <img width="400" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Maalawi&theme=nord_bright">
+    </a>
+    <a style="margin: 3px" href="https://github.com/Ahmed-Maalawi">
+      <img width="400" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Maalawi&theme=nord_bright" />
+    </a> 
+   </div>
 </details>
 
 
