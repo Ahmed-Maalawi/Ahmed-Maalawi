@@ -1,284 +1,120 @@
-
-<!--
-**Ahmed-Maalawi/Ahmed-Maalawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<!-- <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50"> -->
-
-![This is an image](./img/banner)
-
-<br><br>
-
-# <p align="center"> I'm Ahmed El-Maalawi  👋 <p/>
-
-
-###  <p align="center"> &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>&nbsp;  PHP | Laravel Backend Developer &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></p>
-
+<!-- # Ahmed Maalawi -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-maalawi-642aa022a"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ahmedelmaalawi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ahmed.elmaalawi.90"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send/?phone=201019255748"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm Ahmed Maalawi;Full-stack%20web%20developer;Experienced%20Laravel%20And%20Vue.js;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=222222&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<!-- ![banner](./img/banner) -->
 
-<!-- --- -->
-<br>
+<!-- ## Full-Stack Developer | Laravel & Vue.js Specialist -->
 
-## About Me ..
+---
 
-<br>
+## 👨‍💻 Professional Summary
 
-###  🧑🏻‍💻  &nbsp; - &nbsp; Junior Backend Developer Always Looking To Challenge Myself And Learn New Technologies.
+Experienced Full-Stack Developer with **2+ years of Laravel backend development** and **1+ year of Vue.js frontend expertise.** Passionate about building scalable web applications with clean architecture and optimal user experiences. Proven track record in developing robust APIs, implementing business logic, and creating responsive user interfaces.
 
-### 🧑🏻‍🎓  &nbsp; - &nbsp;Graduated from Modern Academy For Computer Science and Information Technology, Where I Completed a Bachelor of Computer Science
+**🎯 Currently seeking new opportunities** as a Full-Stack Developer to contribute to innovative projects and drive technical excellence.
 
-### 🔭  &nbsp; - &nbsp; I’m Currently Looking For a New Internship or a New job as a Junior Backend Developer
+---
 
-<br>
+## 🚀 Core Expertise
 
+### Backend Development (2+ Years Experience)
 
-# Preferred languages
+- **Laravel Framework** - Advanced proficiency in MVC architecture, Eloquent ORM, and API development  
+- **PHP** - Strong foundation in object-oriented programming and modern PHP practices  
+- **RESTful APIs** - Design and implementation of secure, scalable API endpoints
+- **Database Design** - MySQL optimization, migrations, and complex query operations
+- **Authentication & Authorization** - JWT, OAuth, and role-based access control
 
-<div style="display: flex">
+### Frontend Development (1+ Year Experience)
 
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </a>
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  </a>
-  
-  <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
-  
-  <span style="display:inline-block; margin: 0px 5px"></span>
-</div>
+- **Vue.js** - Component-based architecture, state management, and reactive programming
+- **JavaScript/TypeScript** - ES6+, async programming, and modern development practices
+- **Responsive Design** - Mobile-first approach with Tailwind CSS and modern UI frameworks
+- **API Integration** - Seamless frontend-backend communication and data handling
 
-# Libraries
+---
 
-<div style="display: flex">
+## 🛠️ Technical Stack
 
- <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  </a>
+### Languages & Frameworks
 
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  </a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
-  </a>
+### Frontend Technologies
 
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white"/>
-  </a>
- </div>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
- <br>
- 
- # Database
+### Database & Tools
 
- ![MySQl](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
- <br>
+---
 
-  # IDE
+## 💼 What I Bring to Your Team
 
+- **🎯 Problem Solving:** Strong analytical skills with ability to break down complex requirements
+- **⚡ Performance Focus:** Optimization-minded approach to both frontend and backend development
+- **🔧 Best Practices:** Clean code, SOLID principles, and comprehensive testing methodologies
+<!-- - **📱 Modern Development:** Experience with containerization, CI/CD, and cloud deployment -->
+- **🤝 Collaboration:** Excellent communication skills and experience working in agile environments
 
-<div style="display: flex; margin: 20px 0px">
+---
 
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
-  </a>
-  
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
-  </a>
-  
-   <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
+## 🌟 Currently Learning & Expanding
 
-</div>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
- <br>
+Continuously expanding my skill set with containerization, server management, and cloud infrastructure to become a more well-rounded developer.
 
-# Operating Systems
-
-<div style="display: flex">
-
-
-<a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </a>
-  
-  
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </a>
-
-</div>
-
-<br>
-
-# Tools
-
-<div style="display: flex">
-
-
-<a style="margin: 3px">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-  </a>
-  
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  </a>
-
-  <a style="margin: 3px">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-  </a>
-  
-</div>
-
-<br>
-
-# learning now
-
-<div style="display: flex">
-  <a style="margin: 3px;">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
-
-   <a style="margin: 3px;">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-  </a>
-</div>
-
-<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
-
-<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
-# My Viewes ..
-
-<div style="display: flex">
-
-<a href="https://github.com/Ahmed-Maalawi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Maalawi">
-</a>
-
-<span style="display:inline-block; margin: 0px 10px"></span>
-
-<a href="https://github.com/Ahmed-Maalawi?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ahmed-Maalawi?label=Followers&style=social" alt="GitHub Badge">
-</a>
-
-<span style="display:inline-block; margin: 0px 10px"></span>
-
-<a href="https://github.com/Ahmed-Maalawi/">
-  <img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/>
-</a>
-
-</div>
-
-<br>
-
-
-# 📊 My Stats
-
-
-
-
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700"
-            alt="Ahmed's Github commit streak">
-    </a>
-</p>
-
-
-
-  
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%">
-</p>
-
-
-
-
+## 📈 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Ahmed-Maalawi">
-    <img width="90%" align="centre right" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700&show_icons=true">
+    <img src="https://komarev.com/ghpvc/?username=Ahmed-Maalawi" alt="page views" />
   </a>
-
-
-  <p align="center" style="margin: 0px auto">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%">
-  </p>
-
-<br>
-
-  <p align="center">
-    <a href="https://github.com/Ahmed-Maalawi">
-    <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maalawi&theme=nord_bright&langs_count=16"/>
+  <a href="https://github.com/Ahmed-Maalawi?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ahmed-Maalawi?style=flat&logo=github">
   </a>
-  </p>
-
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700" alt="Ahmed's Github commit streak">
+  </a>
+</p>
 
-<details>
-  <summary> <b><u>Most Used Languages</u></b> </summary><br>
-   <div style="display: flex; justify-content: center;">
+| <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed-Maalawi's github stats" /></a> | <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maalawi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<div style="display: flex; justify-content: center;">
     <a style="margin: 3px" href="https://github.com/Ahmed-Maalawi">
       <img width="400" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Maalawi&theme=nord_bright">
     </a>
     <a style="margin: 3px" href="https://github.com/Ahmed-Maalawi">
       <img width="400" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Maalawi&theme=nord_bright" />
-    </a> 
+    </a>
    </div>
-</details>
 
+---
 
+## 🎓 Education & Background
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-</p>
+**Bachelor of Computer Science**  
+*Modern Academy For Computer Science and Information Technology*
+
+Comprehensive education in software engineering principles, data structures, algorithms, and modern web development practices.
+
+---
+
+## 📞 Let's Connect
+
+I'm always interested in discussing new opportunities, collaborative projects, or sharing knowledge about full-stack development.
+
+**📧 Email:** <ahmedelmaalawi@gmail.com>  
+**💼 LinkedIn:** [Ahmed Maalawi](https://www.linkedin.com/in/ahmed-maalawi/)  
+**📱 WhatsApp:** [+20 101 925 5748](https://wa.me/201019255748)
