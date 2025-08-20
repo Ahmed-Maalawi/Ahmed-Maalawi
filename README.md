@@ -24,8 +24,8 @@ Experienced Full-Stack Developer with **2+ years of Laravel backend development*
 
 ### Backend Development (2+ Years Experience)
 
-- **Laravel Framework** - Advanced proficiency in MVC architecture, Eloquent ORM, and API development  
-- **PHP** - Strong foundation in object-oriented programming and modern PHP practices  
+- **Laravel Framework** - Advanced proficiency in MVC architecture, Eloquent ORM, and API development
+- **PHP** - Strong foundation in object-oriented programming and modern PHP practices
 - **RESTful APIs** - Design and implementation of secure, scalable API endpoints
 - **Database Design** - MySQL optimization, migrations, and complex query operations
 - **Authentication & Authorization** - JWT, OAuth, and role-based access control
@@ -104,7 +104,7 @@ Continuously expanding my skill set with containerization, server management, an
 
 ## 🎓 Education & Background
 
-**Bachelor of Computer Science**  
+**Bachelor of Computer Science**
 *Modern Academy For Computer Science and Information Technology*
 
 Comprehensive education in software engineering principles, data structures, algorithms, and modern web development practices.
@@ -115,6 +115,6 @@ Comprehensive education in software engineering principles, data structures, alg
 
 I'm always interested in discussing new opportunities, collaborative projects, or sharing knowledge about full-stack development.
 
-**📧 Email:** <ahmedelmaalawi@gmail.com>  
-**💼 LinkedIn:** [Ahmed Maalawi](https://www.linkedin.com/in/ahmed-maalawi/)  
+**📧 Email:** <ahmedelmaalawi@gmail.com>
+**💼 LinkedIn:** [Ahmed Maalawi](https://www.linkedin.com/in/ahmed-maalawi/)
 **📱 WhatsApp:** [+20 101 925 5748](https://wa.me/201019255748)
