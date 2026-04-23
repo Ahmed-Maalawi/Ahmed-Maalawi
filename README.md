@@ -23,11 +23,11 @@
 
   
 
-Full-stack engineer with **4+ years** of experience building production-ready web applications from end to end. I specialize in **Laravel/PHP backends** paired with **Vue.js frontends**, with a strong focus on clean architecture, scalable system design, and real-world business impact.
+Full-stack engineer with **4+ years** of experience building production-ready web applications from end to end. I specialize in **Laravel/PHP backends** paired with **Vue.js frontends**, with a strong background in system design, API development, and DevOps practices.
 
   
 
-I've shipped features across diverse domains — ERP systems, booking platforms, HRMS, LMS, and fintech — working both independently and as part of cross-functional teams in remote and on-site environments.
+I've shipped features across diverse domains — ERP systems, booking platforms, HRMS, LMS, and fintech — working both independently as a solopreneur and as part of cross-functional teams in remote and on-site environments.
 
   
 
@@ -115,7 +115,7 @@ I've shipped features across diverse domains — ERP systems, booking platforms,
 
   
 
-Developing and maintaining web applications in a software house environment. Involved in backend API development, database design, team collaboration on feature delivery, and deployment pipelines.
+Developing and maintaining web applications in a software house environment. Involved in backend API development, database design, team collaboration on feature delivery, and deployment pipelines optimization.
 
   
 
@@ -129,7 +129,7 @@ Developing and maintaining web applications in a software house environment. Inv
 
   
 
-Built and maintained a large-scale **ERP system** for a Kuwaiti enterprise. Worked across multiple business modules in a fully remote setup, owning features end-to-end from database design through to frontend delivery.
+Built and maintained a large-scale **ERP system** for a Kuwaiti enterprise. Worked across multiple business modules in a fully remote setup, owning features end-to-end from database design through frontend implementation. Collaborated with cross-functional teams on complex requirements, API optimization, and system scalability.
 
   
 
@@ -295,22 +295,13 @@ Secure web platform for buying and selling digital currencies.
 
 ## 📊 Core Strengths
 
-  
-
 | Area | Details |
-
 |---|---|
-
 | **System Design** | Multi-tenant SaaS, ERP, modular monolith architecture |
-
 | **API Development** | RESTful APIs consumed by web and mobile clients |
-
 | **Design Patterns** | Strategy, MVC/HMVC, Repository — applied in real production systems |
-
 | **Database** | Complex schema design, query optimization (MySQL / PostgreSQL) |
-
 | **DevOps** | Docker, CI/CD with GitHub Actions, AWS deployment |
-
 | **Frontend** | Full Vue.js SPA development with Tailwind CSS |
 
   
@@ -373,7 +364,7 @@ I'm currently **open to work as a Full-Stack or Backend Developer** — remote o
 
   
 
-| <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed-Maalawi's github stats" /></a> | <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maalawi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&background=DD272700" alt="Ahmed's Github stats" /></a> | <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Maalawi&layout=compact&theme=buefy&hide_border=true&background=DD272700" alt="languages" /></a> |
 
 | ------------- | ------------- |
 
