@@ -1,7 +1,7 @@
 
 # Ahmed Mohamed El-maalawi
 
-### Full-Stack Developer · Laravel / PHP · Vue.js
+### Senior Full-Stack Engineer · Laravel / PHP · Vue.js
 
   
 
@@ -23,7 +23,7 @@
 
   
 
-Full-stack engineer with **4+ years** of experience building production-ready web applications from end to end. I specialize in **Laravel/PHP backends** paired with **Vue.js frontends**, with a strong background in system design, API development, and DevOps practices.
+Senior Full-stack engineer with **4+ years** of experience building production-ready web applications from end to end. I specialize in **Laravel/PHP backends** paired with **Vue.js frontends**, with a strong background in system design, API development, and DevOps practices.
 
   
 
@@ -109,7 +109,7 @@ I've shipped features across diverse domains — ERP systems, booking platforms,
 
   
 
-### Full-Stack Developer — Qeem Tech *(Oct 2025 – Present)*
+### Senior Full-Stack Engineer — Qeem Tech *(Oct 2025 – Present)*
 
 `Laravel`  `Full-time`  `On-site · Cairo`
 
@@ -123,7 +123,7 @@ Developing and maintaining web applications in a software house environment. Inv
 
   
 
-### Full-Stack Developer — Alshamel El-Araby *(Apr 2024 – Sep 2025)*
+### Mid-level Full-Stack Engineer — Alshamel El-Araby *(Apr 2024 – Sep 2025)*
 
 `Laravel`  `Vue.js`  `ERP`  `Remote · Kuwait`
 
