@@ -1,387 +1,159 @@
+<div align="center">
 
-# Ahmed Mohamed El-maalawi
+# Hi, I'm Ahmed El-maalawi 👋
 
-### Senior Full-Stack Engineer · Laravel / PHP · Vue.js
+### Senior Full-Stack Engineer · Laravel · React · Vue · Distributed Systems
 
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=620&lines=Senior+Full-Stack+Engineer+%F0%9F%9A%80;Laravel+%7C+React.js+%7C+Vue.js+%7C+Node.js;Multi-Tenant+SaaS+%26+ERP+Architecture;Real-Time+Tracking+%26+Payment+Integrations;CI%2FCD+%7C+Docker+%7C+AWS" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-maalawi-642aa022a)
+<p>
+  <a href="https://linkedin.com/in/ahmed-maalawi-642aa022a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ahmed-maalawi.infinityfree.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:ahmedelmaalawi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Maalawi&style=for-the-badge&color=FF2D20&label=Profile+Views" alt="Profile views"/>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-ahmedelmaalawi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedelmaalawi@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222?style=flat&logo=vercel)](https://ahmed-maalawi.github.io/Ahmed-Portofilo/)
-
-![Location](https://img.shields.io/badge/Location-Maadi%2C%20Cairo-green?style=flat&logo=googlemaps&logoColor=white)
-
-  
-
----
-
-  
-
-## 👋 About Me
-
-  
-
-Senior Full-stack engineer with **4+ years** of experience building production-ready web applications from end to end. I specialize in **Laravel/PHP backends** paired with **Vue.js frontends**, with a strong background in system design, API development, and DevOps practices.
-
-  
-
-I've shipped features across diverse domains — ERP systems, booking platforms, HRMS, LMS, and fintech — working both independently as a solopreneur and as part of cross-functional teams in remote and on-site environments.
-
-  
-
-> I don't just write code. I think in systems, design for scale, and build things users actually love.
-
-  
+</div>
 
 ---
 
-  
+## 🧑‍💻 About Me
+
+Full-Stack Engineer based in **Cairo, Egypt 🇪🇬** with **4+ years** of experience building production-grade **Laravel/PHP** backends and **React/Vue** frontends for **delivery, ERP, booking, LMS, and SaaS** products.
+
+- 🏗️ I design **scalable multi-tenant architectures** using DDD, Clean Architecture, and SOLID principles
+- ⚡ I build **real-time systems**: live order and courier tracking with Laravel Reverb, WebSockets, and Firebase
+- 💳 I integrate **payment gateways and webhooks** (Stripe, Paymob) for transactional, multi-vendor commerce
+- 🚀 I ship with **CI/CD pipelines**, Docker, and GitHub Actions on Linux production servers
+- 🔭 Currently: **Senior Full-Stack Engineer @ [Now Delivery](https://www.now-delivery.com/)**
+- 🎓 B.Sc. Computer Science, **Grade: Excellent (A+)**, Modern Academy in Maadi
+
+---
+
+## 📊 Career at a Glance
+
+<div align="center">
+
+| 🗓️ Experience | 🏢 Companies | 📦 Production Projects | 📱 Live Store Apps | 🧰 Technologies |
+|:---:|:---:|:---:|:---:|:---:|
+| **4+ years** | **5** | **10+** | **4** (Play Store & App Store) | **40+** |
+
+</div>
+
+```text
+Backend (Laravel / PHP)      ████████████████████████  95%
+APIs & System Design         ███████████████████████░  92%
+Databases & Optimization     ██████████████████████░░  88%
+Frontend (React / Vue)       ████████████████████░░░░  80%
+DevOps (Docker / CI/CD)      ██████████████████░░░░░░  72%
+```
+
+---
 
 ## 🛠️ Tech Stack
 
-  
+**Backend & Real-Time**
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,redis,firebase&theme=dark" alt="Backend"/>
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+**Frontend**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,tailwind,bootstrap,html,css,sass&theme=dark" alt="Frontend"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="Databases"/>
+</p>
 
-![REST API](https://img.shields.io/badge/RESTful_API-009688?style=flat)
+**DevOps & Tooling**
 
-  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux,ubuntu,bash,git,postman,figma,vscode,phpstorm,webstorm&theme=dark" alt="DevOps and tools"/>
+</p>
 
-### Frontend
+<details>
+<summary><b>🧠 Architecture & Engineering Practices</b></summary>
+<br/>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+`Multi-Tenant SaaS` · `Domain-Driven Design` · `Clean Architecture` · `SOLID & OOP` · `Event-Driven State Machines` · `Controller-Service-Repository` · `Strategy Pattern` · `Dependency Injection` · `RESTful API Design` · `OAuth2 / Sanctum / JWT` · `Queued Pipelines` · `WebSockets (Laravel Reverb, Echo, Pusher)` · `PHPUnit Testing` · `Query Optimization & Indexing` · `API Security`
 
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-  
-
-### Architecture & Patterns
-
-![OOP](https://img.shields.io/badge/OOP-Design-blue?style=flat)
-
-![MVC](https://img.shields.io/badge/MVC_/_HMVC-Pattern-blue?style=flat)
-
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-Strategy_&_more-blue?style=flat)
-
-![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant_Architecture-blue?style=flat)
-
-![SaaS](https://img.shields.io/badge/SaaS_Architecture-blue?style=flat)
-
-  
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI/CD)-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-![Git Flow](https://img.shields.io/badge/Git_Flow-F05032?style=flat&logo=git&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-  
+</details>
 
 ---
 
-  
+## 💼 Experience
 
-## 💼 Work Experience
-
-  
-
-### Senior Full-Stack Engineer — Qeem Tech *(Oct 2025 – Present)*
-
-`Laravel`  `Full-time`  `On-site · Cairo`
-
-  
-
-Developing and maintaining web applications in a software house environment. Involved in backend API development, database design, team collaboration on feature delivery, and deployment pipelines optimization.
-
-  
+| Role | Company | Period | Mode |
+|---|---|---|---|
+| **Senior Full-Stack Engineer** | [Now Delivery](https://www.now-delivery.com/) | Jun 2026 – Present | On Site |
+| **Senior Full-Stack Engineer** | [Qeema Tech](https://www.qeematech.net/) | Oct 2025 – Jun 2026 | On Site |
+| **Mid-level Full-Stack Engineer** | Alshamel El-Araby (Kuwait) | Apr 2024 – Sep 2025 | Remote |
+| **Full-Stack Developer** | [Knock Target](https://www.knocktarget.com/PM) | Jan 2023 – Mar 2024 | Remote |
+| **Back End Developer** | [Venu Dine](https://www.linkedin.com/company/venu-apps/) | Aug 2022 – Jan 2023 | Remote |
 
 ---
-
-  
-
-### Mid-level Full-Stack Engineer — Alshamel El-Araby *(Apr 2024 – Sep 2025)*
-
-`Laravel`  `Vue.js`  `ERP`  `Remote · Kuwait`
-
-  
-
-Built and maintained a large-scale **ERP system** for a Kuwaiti enterprise. Worked across multiple business modules in a fully remote setup, owning features end-to-end from database design through frontend implementation. Collaborated with cross-functional teams on complex requirements, API optimization, and system scalability.
-
-  
-
----
-
-  
-
-### Full-Stack Developer — Knock Target *(Jan 2023 – Mar 2024)*
-
-`Laravel`  `REST API`  `Remote · Egypt`
-
-  
-
-Contributed as a backend developer, building APIs and business logic for client-facing products.
-
-  
-
----
-
-  
-
-### Backend Developer — Venu Dine *(Aug 2022 – Jan 2023)*
-
-`Laravel`  `PHP`  `Remote · Egypt`
-
-  
-
-Started professional career building backend systems for a food-tech platform.
-
-  
-
----
-
-  
 
 ## 🚀 Featured Projects
 
-  
+### 🛵 Now Delivery Platform
+`Laravel` `React.js` `Firebase`
+Backend architecture and API suite for an on-demand delivery and e-commerce startup, with **multi-role React dashboards** (Admin, Customer Care, Company Delivery, Error Tracking), **real-time order and courier tracking**, and **multi-vendor baskets in a single transaction**.
 
 ### 🏢 Alshamel Partners ERP
+`Laravel` `Vue.js` `Multi-Tenant`
+Large-scale modular ERP serving multiple business domains (Real Estate, Car Rental, HR Training, Finance, CRM). I applied the **Strategy Pattern** to decouple business logic and **optimized reporting queries** for enterprise workloads.
 
-`Laravel`  `Vue.js`  `Multi-Tenant`  `Strategy Pattern`
+### 🎓 Monafs: Educational Management SaaS
+`Laravel` `MySQL` `REST API`
+LMS connecting schools, teachers, and students, with **subscription plan management** and a **Strategy-Pattern exam generation engine** (Daily, Weekly, and Custom exams; random or manual question selection).
 
-  
+### 📱 Live Mobile Apps (Backend)
 
-Enterprise-grade modular ERP serving multiple business domains with a multi-tenant architecture.
+| App | Domain | Stack | Links |
+|---|---|---|---|
+| **Rimas Land** | Dairy & farm e-commerce | Laravel · REST API | [Play Store](https://play.google.com/store/apps/details?id=com.qeema.egyptgold.app&hl=en_US) · [App Store](https://apps.apple.com/us/app/%D8%B1%D9%8A%D9%85%D8%A7%D8%B3-%D9%84%D8%A7%D9%86%D8%AF/id6755990263) |
+| **EmiratesEV** | EV charging & UAE classifieds | Laravel · MySQL | [Play Store](https://play.google.com/store/apps/details?id=com.qeema.emirates.app&hl=en) · [App Store](https://apps.apple.com/sa/app/emiratesev/id6755527523) |
+| **xGolden Travel** | Car rental & trip booking | Laravel · Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.qeema.xgoldentravel&hl=en) · [App Store](https://apps.apple.com/us/app/x-golden-travel/id6802696573) |
+| **Elbrahime Food** | Food commerce & merchants | Laravel · MySQL | [Play Store](https://play.google.com/store/apps/details?id=com.qemma.elbarhemy_customer_app&hl=en_US) |
 
-- Implemented core modules: **Car Booking**, **HR Training**
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
-- Applied the **Strategy Pattern** to decouple business logic and improve extensibility
+- **Ijtaize HRMS:** REST API optimized for React Native, with automated emails for leave approvals, payroll readiness, and announcements
+- **Luminous Palace:** room booking system with maintenance, housekeeping, food delivery, and laundry services managed from an admin dashboard
+- **[Medica Zone](https://github.com/Ahmed-Maalawi/Medical_Zone):** graduation project, a healthcare e-commerce platform for medical supplies in Egypt
 
-- Optimized database interactions for enterprise-level workloads
-
-  
-
----
-
-  
-
-### 🚗 xGolden — Transportation Booking Platform
-
-`Laravel`  `MySQL`  `REST API`  `Firebase`
-
-  
-
-Comprehensive backend for a car rental & trip booking mobile app.
-
-- Complex booking logic with **dynamic pricing** and coupon systems
-
--  **User KYC verification** flow and multi-language admin dashboard
-
-- Fleet inventory, location services, and **real-time Firebase notifications**
-
-  
+</details>
 
 ---
 
-  
+## 📈 GitHub Statistics
 
-### 👥 Ijtaize — HRMS
+<div align="center">
 
-`Laravel`  `RESTful API`  `React Native`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maalawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-  
+<img src="https://streak-stats.demolab.com?user=Ahmed-Maalawi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-Human Resource Management System built for a startup company.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Maalawi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
 
-- Architected a cross-platform REST API optimized for **React Native mobile** consumption
-
-- Built an automated **email notification system** for leave approvals, payroll, and announcements
-
-  
+</div>
 
 ---
 
-  
+<div align="center">
 
-### 🏨 Luminous-Palace — Rooms Booking System
+### 🤝 Open to Senior Backend / Full-Stack opportunities and collaborations
 
-`Laravel`  `Admin Dashboard`
+📫 **[ahmedelmaalawi@gmail.com](mailto:ahmedelmaalawi@gmail.com)** · 🌐 **[Portfolio](https://ahmed-maalawi.infinityfree.me/)** · 💼 **[LinkedIn](https://linkedin.com/in/ahmed-maalawi-642aa022a)**
 
-  
-
-Full-featured hotel room booking system with a complete amenities layer.
-
-- Room reservations with support for maintenance orders, housekeeping, food delivery, and laundry
-
-- Managed entirely through a custom **admin dashboard**
-
-  
-
----
-
-  
-
-### 🎓 Monafs — Educational Management System
-
-`Laravel`  `MySQL`  `REST API`  `SaaS`
-
-  
-
-SaaS-based Learning Management System connecting schools, teachers, and students.
-
-- Subscription management for Super Admins (plans, upgrades, cancellations)
-
--  **Exam generation engine** using the Strategy Design Pattern — supports Daily, Weekly, and Custom exam types with random or manual question selection
-
-  
-
----
-
-  
-
-### 💱 Fut-Arab — Digital Currency Exchange
-
-`Laravel`  `Web Platform`
-
-  
-
-Secure web platform for buying and selling digital currencies.
-
-  
-
----
-
-  
-
-## 🎓 Education & Certifications
-
-  
-
-**B.Sc. Computer Science and Technology** — Modern Academy in Maadi *(2018 – 2022)*
-
-  
-
-**Full Stack Developer Trainee** — Route Training Center, Dokki *(Jan 2021 – Oct 2021)*
-
-  
-
----
-
-  
-
-## 📊 Core Strengths
-
-| Area | Details |
-|---|---|
-| **System Design** | Multi-tenant SaaS, ERP, modular monolith architecture |
-| **API Development** | RESTful APIs consumed by web and mobile clients |
-| **Design Patterns** | Strategy, MVC/HMVC, Repository — applied in real production systems |
-| **Database** | Complex schema design, query optimization (MySQL / PostgreSQL) |
-| **DevOps** | Docker, CI/CD with GitHub Actions, AWS deployment |
-| **Frontend** | Full Vue.js SPA development with Tailwind CSS |
-
-  
-
----
-
-  
-
-## 📫 Let's Connect
-
-  
-
-I'm currently **open to work as a Full-Stack or Backend Developer** — remote or on-site.
-
-  
-
-📧 **ahmedelmaalawi@gmail.com**
-
-📞 **+20 101 925 5748**
-
-📍 **Maadi, Cairo, Egypt**
-
-  
-
----
-
-  
-
-## 📊 GitHub Statistics
-
-  
-
-<p  align="center">
-
-<a  href="https://github.com/Ahmed-Maalawi">
-
-<img  src="https://komarev.com/ghpvc/?username=Ahmed-Maalawi"  alt="page views"  />
-
-</a>
-
-<a  href="https://github.com/Ahmed-Maalawi?tab=followers">
-
-<img  alt="GitHub followers"  src="https://img.shields.io/github/followers/Ahmed-Maalawi?style=flat&logo=github">
-
-</a>
-
-</p>
-
-  
-
-<p  align="center">
-
-<a  href="https://git.io/streak-stats">
-
-<img  width="80%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Maalawi&theme=monokai-metallian&hide_border=true&background=DD272700"  alt="Ahmed's Github commit streak">
-
-</a>
-
-</p>
-
-  
-
-| <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Maalawi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&background=DD272700" alt="Ahmed's Github stats" /></a> | <a href="https://github.com/Ahmed-Maalawi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Maalawi&layout=compact&theme=buefy&hide_border=true&background=DD272700" alt="languages" /></a> |
-
-| ------------- | ------------- |
-
-  
-
-<div  style="display: flex; justify-content: center;">
-
-<a  style="margin: 3px"  href="https://github.com/Ahmed-Maalawi">
-
-<img  width="400"  align="centre left"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Maalawi&theme=nord_bright">
-
-</a>
-
-<a  style="margin: 3px"  href="https://github.com/Ahmed-Maalawi">
-
-<img  width="400"  align="centre center"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Maalawi&theme=nord_bright"  />
-
-</a>
+<sub>🗣️ Arabic (Native) · English (Conversational)</sub>
 
 </div>
